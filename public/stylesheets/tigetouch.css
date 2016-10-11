@@ -1,0 +1,319 @@
+#touchscreenMain {
+  width: 730px;
+  height: 289px;
+  margin: 0 auto 13px auto;
+  border: 1px solid #999;
+  background: url("../images/touchscreen/mainimg.jpg") no-repeat;
+  font-family: Helvetica, Arial, sans-serif;
+  overflow: hidden; }
+
+#imgHeader {
+  width: 330px;
+  color: #1A1A1A;
+  position: relative;
+  top: 50px;
+  left: 335px; }
+  #imgHeader p {
+    font: 1.58em/1.22em Helvetica, Arial, sans-serif;
+    font-weight: bold; }
+  #imgHeader h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+    line-height: 36px;
+    margin-top: 30px; }
+    #imgHeader h1 em {
+      color: #f60;
+      font-style: normal; }
+
+#interactBtn {
+  display: block;
+  background: url("../images/touchscreen/interactBtnBg.png") no-repeat;
+  width: 138px;
+  height: 26px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1em;
+  padding: 9px 0 0 24px;
+  position: relative;
+  top: 100px;
+  left: 500px; }
+
+#mainGallery {
+  width: 255px;
+  height: 104px;
+  background: url("../images/global/backgrounds/two-img-gallery-bg.png") no-repeat;
+  position: relative;
+  left: 287px;
+  top: 25px; }
+  #mainGallery ul {
+    position: relative;
+    top: 14px;
+    left: 13px;
+    line-height: 0;
+    width: 230px; }
+    #mainGallery ul li {
+      float: left;
+      cursor: pointer; }
+      #mainGallery ul li a img {
+        border: 2px solid #fff;
+        margin: 0 5px 0 0; }
+      #mainGallery ul li#mainGallery-img2 img {
+        margin-right: 0; }
+
+.galleryEnlarge {
+  width: 18px;
+  height: 19px;
+  background: url("../images/global/backgrounds/gallery-enlarge.png") no-repeat;
+  position: relative;
+  z-index: 2;
+  top: -80px;
+  left: -3px;
+  margin: 0 0 -19px 0; }
+
+#mainVideoGallery {
+  position: relative;
+  top: -72px;
+  left: 580px;
+  width: 120px; }
+  #mainVideoGallery a {
+    display: block; }
+    #mainVideoGallery a.vidTxtLink {
+      color: #26a9e0;
+      margin: 6px 0 0 3px;
+      font-size: .92em;
+      letter-spacing: .01em; }
+
+#touchscreenIcons ul li {
+  display: block;
+  width: 78px;
+  float: left;
+  margin-right: 32px; }
+  #touchscreenIcons ul li a {
+    display: block;
+    width: 78px;
+    height: 0px;
+    padding-top: 84px;
+    background-image: url("../images/touchscreen/touchscreen-icons.gif");
+    background-repeat: no-repeat;
+    overflow: hidden;
+    cursor: pointer; }
+  #touchscreenIcons ul li.last {
+    margin-right: 0; }
+
+#gaugesIcon a {
+  background-position: -5px 5px; }
+
+#depthIcon a {
+  background-position: -88px 5px; }
+
+#profilesIcon a {
+  background-position: -170px 5px; }
+
+#lightsIcon a {
+  background-position: -254px 5px; }
+
+#switchesIcon a {
+  background-position: -337px 5px; }
+
+#speedsetIcon a {
+  background-position: -423px 5px; }
+
+#audioIcon a {
+  background-position: -509px 5px; }
+
+#gaugesIcon.active a {
+  background-position: -5px -85px; }
+
+#depthIcon.active a {
+  background-position: -88px -85px; }
+
+#profilesIcon.active a {
+  background-position: -170px -85px; }
+
+#lightsIcon.active a {
+  background-position: -254px -85px; }
+
+#switchesIcon.active a {
+  background-position: -337px -85px; }
+
+#speedsetIcon.active a {
+  background-position: -423px -85px; }
+
+#audioIcon.active a {
+  background-position: -509px -85px; }
+
+#iconsBottomBorder {
+  width: 732px;
+  height: 4px;
+  margin: 13px 0 0 4px;
+  background: url("../images/touchscreen/icons-bottom-border.gif") repeat-x; }
+
+#iconsPointer {
+  display: block;
+  background: url("../images/touchscreen/icons-pointer.gif") no-repeat;
+  overflow: hidden;
+  width: 20px;
+  height: 10px;
+  position: relative;
+  top: -10px;
+  left: 27px; }
+
+#touchscreenInfoContent {
+  padding: 0 10px;
+  margin: 30px 0 30px 0; }
+
+.col1 {
+  width: 540px;
+  float: left; }
+  .col1 h2 {
+    font-weight: bold;
+    font-size: 1.67em; }
+  .col1 em {
+    font: 1.33em/1.06em Verdana, sans-serif;
+    letter-spacing: .01em;
+    display: block;
+    width: 475px;
+    margin: 21px 0 22px 24px; }
+  .col1 p {
+    width: 476px;
+    font-size: 11px;
+    font: 11px/17px Verdana, sans-serif;
+    letter-spacing: .01em;
+    margin: 0 0 15px 24px; }
+  .col1 ul {
+    margin-bottom: 17px;
+    width: 476px; }
+    .col1 ul li {
+      list-style: disc outside;
+      margin: 10px 0 10px 54px; }
+
+#touchscreenContentGallery {
+  width: 504px;
+  height: 105px;
+  background: url("../images/global/backgrounds/four-img-gallery-bg.png") no-repeat;
+  margin: 15px 0 15px 17px; }
+  #touchscreenContentGallery .galleryWrapper {
+    position: relative;
+    top: 12px;
+    left: 19px;
+    z-index: 1;
+    width: 465px;
+    overflow: hidden;
+    padding: 2px 0 0 2px; }
+    #touchscreenContentGallery .galleryWrapper ul {
+      width: 900px;
+      position: relative;
+      line-height: 0;
+      margin-bottom: 0; }
+      #touchscreenContentGallery .galleryWrapper ul li {
+        float: left;
+        cursor: pointer;
+        list-style: none;
+        margin: 0; }
+        #touchscreenContentGallery .galleryWrapper ul li a img {
+          border: 2px solid #fff;
+          margin: 0 5px 0 0; }
+
+.galleryLtArrow {
+  background: url("../images/global/links/galleryLtArrow.png") no-repeat;
+  width: 18px;
+  height: 19px;
+  margin: 0 0 -19px 0;
+  position: relative;
+  top: -77px;
+  left: 14px;
+  z-index: 1;
+  cursor: pointer; }
+
+.galleryRtArrow {
+  background: url("../images/global/links/galleryRtArrow.png") no-repeat;
+  width: 19px;
+  height: 18px;
+  margin: 0 0 -18px 0;
+  position: relative;
+  top: -77px;
+  left: 507px;
+  z-index: 1;
+  cursor: pointer; }
+
+.paginationIndicator li {
+  display: block;
+  overflow: hidden;
+  background-image: url("../images/global/backgrounds/galleryDots.gif");
+  background-repeat: no-repeat;
+  width: 10px;
+  height: 8px;
+  float: left; }
+
+#contentGalleryPaginator {
+  margin: -33px auto 10px auto;
+  width: 20px; }
+
+#contentGalleryPg1 {
+  background-position: 0 -7px; }
+
+.col2 {
+  width: 172px;
+  float: right;
+  font-family: Verdana, sans-serif;
+  letter-spacing: .01em; }
+  .col2 a.downloadPDF {
+    color: #4d4d4d;
+    font-size: .92em;
+    background: url("../images/global/backgrounds/downloadpdf.gif") right -1px no-repeat;
+    padding: 0 30px 5px 0; }
+
+#touchscreenContentVideoGallery {
+  width: 172px;
+  background-color: #f2f2f2;
+  margin: 11px 0 11px 0;
+  padding: 25px 0; }
+  #touchscreenContentVideoGallery ul {
+    text-align: center; }
+    #touchscreenContentVideoGallery ul li {
+      margin: 0 0 20px 0;
+      letter-spacing: .01em;
+      font: 1em/1.2em Verdana, sans-serif; }
+      #touchscreenContentVideoGallery ul li a {
+        color: #26a9e0; }
+      #touchscreenContentVideoGallery ul li span {
+        display: block; }
+
+.section.right {
+  margin: 0 0 40px 0;
+  width: auto; }
+
+.sectionContent.right {
+  padding: 10px;
+  background-color: rgb(242, 242, 242); }
+
+.sectionLink.right {
+  margin: 15px 0 0 0; }
+  .sectionLink.right a {
+    width: auto;
+    height: auto;
+    padding: 0;
+    overflow: visible;
+    display: block;
+    background: none;
+    color: rgb(0, 176, 216);
+    font-size: 12px;
+    font-weight: normal;
+    font-family: "Verdana", "sans-serif";
+    text-decoration: underline;
+    text-align: center;
+    float: none;
+    margin: 0 0 10px 0; }
+  .sectionLink.right img {
+    width: 115px;
+    height: 73px;
+    display: block;
+    margin: 30px auto 7px auto; }
+  .sectionLink.right.top img {
+    margin: 0px auto 7px auto; }
+
+.subHeader {
+  font: bold 13px/20px Helvetica, Arial, sans-serif;
+  color: rgb(26, 26, 26);
+  margin: 17px 0 5px 24px; }

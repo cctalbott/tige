@@ -1,0 +1,11 @@
+@charset "UTF-8";
+#mainimg {
+  background: url(../images/contact/tige-long.jpg) no-repeat;
+  height: 145px;
+  margin-bottom: 13px; }
+
+#privacyblock {
+  margin: 25px 0 13px 0; }
+
+#rightblock {
+  margin: 25px 13px 0 0; }

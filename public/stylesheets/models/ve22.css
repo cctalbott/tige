@@ -1,0 +1,63 @@
+#mainimg {
+  background: url(../../images/models/ve22/main/1.jpg) no-repeat; }
+
+#contentGalleryPaginator {
+  width: 20px; }
+
+#img1 {
+  background-image: url(../../images/models/ve22/thumbnails/1.jpg); }
+
+#img2 {
+  background-image: url(../../images/models/ve22/thumbnails/2.jpg); }
+
+#img3 {
+  background-image: url(../../images/models/ve22/thumbnails/3.jpg); }
+
+#img4 {
+  background-image: url(../../images/models/ve22/thumbnails/4.jpg); }
+
+#img5 {
+  background-image: url(../../images/models/ve22/thumbnails/5.jpg); }
+
+#img6 {
+  background-image: url(../../images/models/ve22/thumbnails/6.jpg); }
+
+#img7 {
+  background-image: url(../../images/models/ve22/thumbnails/7.jpg); }
+
+#overhead {
+  background-image: url(../../images/models/ve22/ve22overhead.png); }
+
+#buildLink {
+  background: url(../../images/models/ve22/buildLink.jpg) no-repeat; }
+
+#overhead #dotAlphaZ {
+  top: 270px;
+  margin-left: 81px; }
+#overhead #dotTouch {
+  top: 185px;
+  margin-left: 140px; }
+#overhead #dotTAC {
+  top: 440px;
+  margin-left: 45px; }
+#overhead #dotWalkOverTran {
+  top: 400px;
+  margin-left: 130px; }
+#overhead #dotPcm {
+  top: 405px;
+  margin-left: 81px; }
+#overhead #dotSidePockets {
+  top: 305px;
+  margin-left: 15px; }
+#overhead #dotCarpet {
+  top: 225px;
+  margin-left: 81px; }
+#overhead #dotAudio {
+  top: 323px;
+  margin-left: 107px; }
+#overhead #dotDesign {
+  top: 115px;
+  margin-left: 50px; }
+#overhead #dotSwimPlatform {
+  top: 475px;
+  margin-left: 81px; }

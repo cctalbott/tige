@@ -1,0 +1,26 @@
+@charset "UTF-8";
+#mainimg {
+  background: url(../images/contact/tige-long.jpg) no-repeat;
+  width: 740px;
+  height: 145px;
+  margin-bottom: 25px; }
+
+#rightblock {
+  width: 182px; }
+
+.address li {
+  color: rgb(77, 77, 77); }
+.address h3 {
+  background: url(../images/global/backgrounds/info.png) no-repeat;
+  padding: 2px 0 6px 25px;
+  color: rgb(0, 0, 0);
+  border-bottom: 1px solid rgb(200, 200, 200); }
+.address li .number {
+  color: rgb(0, 0, 0); }
+.address .electronic {
+  margin: 15px 0 10px 0; }
+  .address .electronic ul {
+    list-style: disc inside; }
+
+.sectionLink.right img {
+  border: 1px solid rgb(200, 200, 200); }

@@ -1,0 +1,21 @@
+#mainimg {
+  width: 741px;
+  height: 288px;
+  background-image: url(../images/community/community.jpg); }
+
+#communityHighlight {
+  background: url(../images/community/community_top_bar.jpg) no-repeat; }
+
+#facebookLink {
+  width: 741px;
+  height: 0;
+  padding-top: 54px;
+  overflow: hidden;
+  background: url(../images/community/facebook.jpg) no-repeat;
+  display: block;
+  margin: 10px auto;
+  border: 1px solid rgb(225, 225, 225); }
+
+#communitySidebar {
+  margin-top: 7px;
+  background: url(../images/community/community_side_bar2.jpg) no-repeat; }

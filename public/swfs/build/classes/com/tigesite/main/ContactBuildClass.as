@@ -1,0 +1,1 @@
+﻿package com.build.main {	import flash.display.Sprite;		public class ContactBuildClass extends Sprite {				public function ContactBuildClass():void {					}							}}

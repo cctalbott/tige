@@ -1,0 +1,81 @@
+#mainimg {
+  background: url(../../images/models/rzr/main/1.jpg) no-repeat; }
+
+#contentGalleryPaginator {
+  width: 40px; }
+
+#img1 {
+  background-image: url(../../images/models/z1/thumbnails/1.jpg); }
+
+#img2 {
+  background-image: url(../../images/models/z1/thumbnails/2.jpg); }
+
+#img3 {
+  background-image: url(../../images/models/z1/thumbnails/3.jpg); }
+
+#img4 {
+  background-image: url(../../images/models/z1/thumbnails/4.jpg); }
+
+#img5 {
+  background-image: url(../../images/models/z1/thumbnails/5.jpg); }
+
+#img6 {
+  background-image: url(../../images/models/z1/thumbnails/6.jpg); }
+
+#img7 {
+  background-image: url(../../images/models/z1/thumbnails/7.jpg); }
+
+#img8 {
+  background-image: url(../../images/models/z1/thumbnails/8.jpg); }
+
+#img9 {
+  background-image: url(../../images/models/z1/thumbnails/9.jpg); }
+
+#img10 {
+  background-image: url(../../images/models/z1/thumbnails/10.jpg); }
+
+#img11 {
+  background-image: url(../../images/models/z1/thumbnails/11.jpg); }
+
+#overhead {
+  background-image: url(../../images/models/rzr/rzr_overhead.png); }
+
+#buildLink {
+  background: url(../../images/models/rzr/buildLink.jpg) no-repeat; }
+
+#overhead #dotAlphaZ {
+  top: 268px;
+  margin-left: 81px; }
+#overhead #dotTouch {
+  top: 175px;
+  margin-left: 140px; }
+#overhead #dotTAC {
+  top: 425px;
+  margin-left: 45px; }
+#overhead #dotStorage {
+  top: 390px;
+  margin-left: 30px; }
+#overhead #dotPcm {
+  top: 390px;
+  margin-left: 81px; }
+#overhead #dotSidePockets {
+  top: 280px;
+  margin-left: 17px; }
+#overhead #dotBow {
+  top: 60px;
+  margin-left: 81px; }
+#overhead #dotIceChest {
+  top: 110px;
+  margin-left: 81px; }
+#overhead #dotCarpet {
+  top: 227px;
+  margin-left: 81px; }
+#overhead #dotAudio {
+  top: 295px;
+  margin-left: 108px; }
+#overhead #dotDesign {
+  top: 105px;
+  margin-left: 45px; }
+#overhead #dotWalkOverTran {
+  top: 400px;
+  margin-left: 140px; }

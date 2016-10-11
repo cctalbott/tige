@@ -1,0 +1,96 @@
+#mainimg {
+  background: url(../../images/models/rz2/main/1.jpg) no-repeat; }
+
+#contentGalleryPaginator {
+  width: 70px; }
+
+#img1 {
+  background-image: url(../../images/models/rz2/thumbnails/1.jpg); }
+
+#img2 {
+  background-image: url(../../images/models/rz2/thumbnails/2.jpg); }
+
+#img3 {
+  background-image: url(../../images/models/rz2/thumbnails/3.jpg); }
+
+#img4 {
+  background-image: url(../../images/models/rz2/thumbnails/4.jpg); }
+
+#img5 {
+  background-image: url(../../images/models/rz2/thumbnails/5.jpg); }
+
+#img6 {
+  background-image: url(../../images/models/rz2/thumbnails/6.jpg); }
+
+#img7 {
+  background-image: url(../../images/models/rz2/thumbnails/7.jpg); }
+
+#img8 {
+  background-image: url(../../images/models/rz2/thumbnails/8.jpg); }
+
+#img9 {
+  background-image: url(../../images/models/rz2/thumbnails/9.jpg); }
+
+#img10 {
+  background-image: url(../../images/models/rz2/thumbnails/10.jpg); }
+
+#img11 {
+  background-image: url(../../images/models/rz2/thumbnails/11.jpg); }
+
+#img12 {
+  background-image: url(../../images/models/rz2/thumbnails/12.jpg); }
+
+#img13 {
+  background-image: url(../../images/models/rz2/thumbnails/13.jpg); }
+
+#img14 {
+  background-image: url(../../images/models/rz2/thumbnails/14.jpg); }
+
+#img15 {
+  background-image: url(../../images/models/rz2/thumbnails/15.jpg); }
+
+#img16 {
+  background-image: url(../../images/models/rz2/thumbnails/16.jpg); }
+
+#img17 {
+  background-image: url(../../images/models/rz2/thumbnails/17.jpg); }
+
+#overhead {
+  background-image: url(../../images/models/rz2/rz2overhead.png); }
+
+#buildLink {
+  background: url(../../images/models/rz2/buildLink.jpg) no-repeat; }
+
+#overhead #dotAlphaZ {
+  top: 268px;
+  margin-left: 81px; }
+#overhead #dotTouch {
+  top: 175px;
+  margin-left: 140px; }
+#overhead #dotTAC {
+  top: 450px;
+  margin-left: 45px; }
+#overhead #dotWalkOverTran {
+  top: 400px;
+  margin-left: 130px; }
+#overhead #dotPcm {
+  top: 413px;
+  margin-left: 81px; }
+#overhead #dotSidePockets {
+  top: 300px;
+  margin-left: 10px; }
+#overhead #dotBow {
+  top: 80px;
+  margin-left: 81px; }
+#overhead #dotCarpet {
+  top: 225px;
+  margin-left: 81px; }
+#overhead #dotAudio {
+  top: 310px;
+  margin-left: 115px; }
+#overhead #dotDesign {
+  top: 105px;
+  margin-left: 45px; }
+#overhead #dotSwimPlatform {
+  top: 475px;
+  margin-left: 81px; }

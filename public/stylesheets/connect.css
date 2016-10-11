@@ -1,0 +1,68 @@
+@charset "UTF-8";
+#mainimg {
+  background: url(../images/connect/main.jpg);
+  height: 400px; }
+  #mainimg p {
+    color: #FFF;
+    width: 629px;
+    margin: 0 auto 0 auto;
+    padding-top: 300px; }
+
+.angledheaderbg {
+  background-image: url(../images/global/contentheaders/headerangled.gif);
+  background-repeat: no-repeat;
+  background-position: -2px -0px;
+  width: 238px;
+  height: 8px; }
+
+#screenshotblock {
+  margin-bottom: 13px; }
+
+#connectblock {
+  border: 1px solid #BBB;
+  margin-bottom: 13px; }
+  #connectblock form {
+    border: 1px solid #BBB;
+    width: 691px;
+    padding: 20px;
+    margin: 4px auto; }
+    #connectblock form table {
+      width: 691px; }
+      #connectblock form table tr td {
+        padding-right: 5px; }
+        #connectblock form table tr td input, #connectblock form table tr td textarea {
+          width: 222px; }
+
+#connectsubmitbtn {
+  float: right;
+  width: auto;
+  margin-right: 4px;
+  margin-top: 25px;
+  background: url(../images/connect/connect_btn.gif) no-repeat;
+  width: 230px;
+  height: 29px;
+  padding-top: 29px;
+  border: none;
+  display: block;
+  overflow: hidden;
+  cursor: pointer; }
+  #connectsubmitbtn:hover {
+    background-position: -0px -29px; }
+
+#connectblock a {
+  text-decoration: none;
+  color: #F60;
+  float: right;
+  clear: right;
+  margin: 5px 27px 7px 0;
+  position: relative;
+  top: -30px; }
+
+span.instruct {
+  position: relative;
+  float: left;
+  top: 15px;
+  text-transform: uppercase;
+  background-color: #FF9;
+  padding: 2px 5px;
+  border: 1px solid #E0E0E0; }

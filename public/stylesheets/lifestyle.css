@@ -1,0 +1,239 @@
+#mainimg {
+  width: 741px;
+  height: 288px;
+  background-image: url(../images/lifestyle/lifestyle.jpg); }
+
+#sectionLeft {
+  float: left;
+  width: 535px; }
+
+#featured {
+  width: 499px;
+  padding: 17px;
+  margin-bottom: 25px;
+  background: #fff url(../images/lifestyle/featuredGradient.jpg) bottom repeat-x; }
+
+.boxShadow {
+  border: 1px solid rgb(200, 200, 200);
+  -webkit-box-shadow: 1px 1px 5px rgb(100, 100, 100); }
+
+#featured h3 {
+  float: left; }
+#featured .line {
+  border-top: 1px solid rgb(200, 200, 200);
+  height: 1px;
+  width: 377px;
+  position: relative;
+  top: 7px;
+  left: 17px;
+  float: right; }
+#featured p {
+  font: 11px/16px Verdana, sans-serif;
+  color: #000;
+  margin: 0 auto 16px auto;
+  width: 499px; }
+
+#team {
+  width: 533px;
+  height: 192px;
+  background: url(../images/lifestyle/teamtige_content.jpg) no-repeat;
+  margin-bottom: 25px; }
+  #team h3 {
+    margin: 15px 0 18px 15px; }
+  #team ul li {
+    margin: 1px 0px 0px 1px;
+    float: left; }
+    #team ul li a {
+      width: 132px;
+      height: 0px;
+      padding-top: 69px;
+      display: block;
+      background-color: #f30;
+      overflow: hidden; }
+
+#sectionRight {
+  width: 190px;
+  float: right; }
+
+#calendarblock {
+  width: 190px;
+  font-family: Helvetica, Arial, sans-serif;
+  margin-bottom: 25px; }
+  #calendarblock h3 {
+    font-size: 16px;
+    margin-bottom: 7px; }
+  #calendarblock table {
+    width: 190px;
+    margin-bottom: 7px; }
+
+#calendarblock .title {
+  text-align: left;
+  color: rgb(26, 26, 26);
+  padding: 3px 0;
+  border-bottom: 1px solid rgb(150, 150, 150);
+  font: bold 13px Helvetica, Arial, sans-serif;
+  color: rgb(26, 26, 26); }
+
+#calendarblock .controls .prev a, #calendarblock .controls .next a {
+  display: block;
+  width: 24px;
+  height: 0px;
+  padding-top: 10px;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-image: url(../images/lifestyle/calendar/prevnext.gif); }
+
+#calendarblock .controls {
+  width: 53px;
+  float: right;
+  margin-top: -16px; }
+
+#calendarblock .controls .prev a {
+  float: left; }
+
+#calendarblock .controls .next a {
+  float: right;
+  background-position: -29px 0; }
+
+.calendar tr th {
+  text-transform: uppercase;
+  padding: 10px 0;
+  color: rgb(77, 77, 77);
+  font: bold 11px Helvetica, Arial, sans-serif; }
+
+.calendar tr td {
+  font: bold 11px Helvetica, Arial, sans-serif;
+  width: 21px;
+  height: 19px;
+  color: rgb(0, 176, 216);
+  vertical-align: middle; }
+  .calendar tr td .output li a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    width: 21px;
+    height: 15px;
+    padding: 4px 0 0 0;
+    vertical-align: middle;
+    background: url(../images/lifestyle/calendar/linkBg.png) no-repeat; }
+
+.submitEvent {
+  padding: 6px;
+  display: block;
+  font-size: 12px;
+  font-family: Verdana, sans-serif;
+  text-align: right;
+  border-top: 1px solid rgb(150, 150, 150);
+  border-bottom: 1px solid rgb(150, 150, 150); }
+
+#lifestyleSidebar {
+  width: 184px;
+  height: 304px;
+  margin: 0 auto 25px auto;
+  background: url(../images/lifestyle/lifestyle_sidebar.jpg) no-repeat; }
+  #lifestyleSidebar li a {
+    margin-left: 5px;
+    width: 154px;
+    height: 65px;
+    padding: 10px 10px 0 6px;
+    display: block;
+    text-decoration: none; }
+  #lifestyleSidebar li.last a {
+    height: 148px; }
+  #lifestyleSidebar li a h3 {
+    font-size: 13px;
+    line-height: 13px;
+    color: rgb(26, 26, 26);
+    margin-bottom: 2px; }
+  #lifestyleSidebar li a:hover h3 {
+    color: rgb(0, 176, 216); }
+  #lifestyleSidebar li a p {
+    font: 11px/13px Helvetica, Arial, sans-serif;
+    color: rgb(77, 77, 77); }
+
+#facebookLink {
+  display: block;
+  width: 144px;
+  height: 0px;
+  padding-top: 44px;
+  overflow: hidden;
+  background: url(../images/lifestyle/facebook.jpg) no-repeat;
+  margin: 0 auto 25px auto; }
+
+#riderimg {
+  background: url(../images/team/mainimg/beauchesne.jpg) no-repeat;
+  height: 383px;
+  width: 717px;
+  margin-bottom: 10px; }
+
+#teamtigeHeader {
+  clear: both;
+  margin-top: 25px;
+  color: rgb(26, 26, 26); }
+
+#theImgSection {
+  background-color: #4D4D4D;
+  padding: 11px;
+  clear: both; }
+
+#imgthumbsHolder {
+  width: 717px;
+  overflow: hidden;
+  display: block;
+  height: 51px; }
+
+#imgthumbs {
+  width: 1800px;
+  height: 51px;
+  position: relative;
+  left: 0; }
+  #imgthumbs li {
+    width: 95px;
+    height: 51px;
+    float: left;
+    margin-right: 9px;
+    cursor: pointer; }
+  
+#imgthumbs li.next {
+  background-image: url(../images/global/ui/next_btn.png); }
+
+#imgthumbs li.previous {
+  background-image: url(../images/global/ui/previous_btn.png); }
+
+#thumb1 {
+  background-image: url(../images/team/riders/beauchesne/thumbs/beauchesne0.jpg); }
+
+#thumb2 {
+  background-image: url(../images/team/riders/beauchesne/thumbs/beauchesne1.jpg); }
+
+#thumb3 {
+  background-image: url(../images/team/riders/beauchesne/thumbs/beauchesne2.jpg); }
+
+#thumb4 {
+  background-image: url(../images/team/riders/beauchesne/thumbs/beauchesne3.jpg); }
+
+#thumb5 {
+  background-image: url(../images/team/riders/beauchesne/thumbs/beauchesne4.jpg); }
+
+#imgthumbs li.lastlink {
+  margin-right: 0; }
+
+#ridersMenu {
+  clear: left; }
+  #ridersMenu li {
+    background-color: #1A1A1A;
+    color: #666;
+    float: left;
+    margin: 0 2px 13px 0;
+    padding: 2px 0px;
+    width: 80px;
+    cursor: pointer; }
+    #ridersMenu li#beauchesneBtn, #ridersMenu li#erringtonBtn, #ridersMenu li#watkinsBtn, #ridersMenu li#nicBtn, #ridersMenu li#santoriBtn {
+      margin-right: 3px; }
+    #ridersMenu li.lastlink {
+      margin-right: 0; }
+    #ridersMenu li.activelink {
+      background-color: #4D4D4D;
+      color: #FFF; }
+    #ridersMenu li p {
+      text-align: center; }

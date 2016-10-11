@@ -1,0 +1,22 @@
+@charset "UTF-8";
+#mainimg {
+  background: url(../images/unique/audio/mainimg.jpg);
+  width: 740px;
+  height: 145px; }
+
+#finishingblock {
+  border: 1px solid #BBB;
+  margin-bottom: 13px; }
+  #finishingblock h3 {
+    color: #F60;
+    border-bottom: 3px double #BBB;
+    padding: 12px 0 12px 10px;
+    background-color: #F2F2F2; }
+  #finishingblock img {
+    display: block;
+    margin: 4px auto; }
+  #finishingblock h4 {
+    color: #F60;
+    font-size: 11px;
+    width: 228px;
+    margin: 4px auto; }

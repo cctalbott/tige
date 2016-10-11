@@ -1,0 +1,47 @@
+#picloader {
+  display: none; }
+
+#mainimg {
+  width: 740px;
+  height: 145px;
+  border: 1px solid rgb(225, 225, 225);
+  background: url(../images/demo/demo.jpg) no-repeat; }
+
+#demoForm em {
+  font-style: normal;
+  font-size: 13px;
+  line-height: 1.01em;
+  margin: 22px 0 22px 0;
+  display: block; }
+#demoForm form ul li {
+  width: 260px;
+  display: block;
+  float: left;
+  clear: both;
+  margin-bottom: 10px; }
+  #demoForm form ul li.right {
+    float: right;
+    clear: none; }
+  #demoForm form ul li input {
+    width: 145px;
+    float: right; }
+    #demoForm form ul li input[type="submit"] {
+      width: auto; }
+  #demoForm form ul li label {
+    float: left;
+    width: 106px;
+    font-size: 11px; }
+
+#demoblock {
+  margin-top: 10px; }
+  #demoblock .sectionContent ul li {
+    margin-bottom: 12px; }
+
+#demoLinkList li {
+  list-style: disc inside none;
+  margin: 0 0 5px 5px; }
+  #demoLinkList li a {
+    font-size: 12px; }
+
+.videoGallery {
+  margin-top: 10px; }

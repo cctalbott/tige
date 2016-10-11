@@ -1,0 +1,50 @@
+#mainimg {
+  background: url(../../images/models/v20/main/1.jpg) no-repeat; }
+
+#contentGalleryPaginator {
+  width: 30px; }
+
+#img1 {
+  background-image: url(../../images/models/v20/thumbnails/1.jpg); }
+
+#img2 {
+  background-image: url(../../images/models/v20/thumbnails/2.jpg); }
+
+#img3 {
+  background-image: url(../../images/models/v20/thumbnails/3.jpg); }
+
+#img4 {
+  background-image: url(../../images/models/v20/thumbnails/4.jpg); }
+
+#img5 {
+  background-image: url(../../images/models/v20/thumbnails/5.jpg); }
+
+#img6 {
+  background-image: url(../../images/models/v20/thumbnails/6.jpg); }
+
+#img7 {
+  background-image: url(../../images/models/v20/thumbnails/7.jpg); }
+
+#img8 {
+  background-image: url(../../images/models/v20/thumbnails/8.jpg); }
+
+#overhead {
+  background-image: url(../../images/models/v20/v20overhead.png); }
+
+#buildLink {
+  background: url(../../images/models/v20/buildLink.jpg) no-repeat; }
+
+#boatblock #boatFeature #rolloverInstruct {
+  background: url(../../images/models/featuredots/orange.png) no-repeat; }
+
+#overhead .featuredot {
+  background: url(../../images/models/featuredots/orange.png) no-repeat; }
+#overhead #dotPcm {
+  top: 390px;
+  margin-left: 82px; }
+#overhead #dotStorage {
+  top: 390px;
+  margin-left: 135px; }
+#overhead #dotFreeboard {
+  top: 225px;
+  margin-left: 5px; }

@@ -1,0 +1,63 @@
+#mainimg {
+  background: url(../../images/models/z1/main/1.jpg) no-repeat; }
+
+#contentGalleryPaginator {
+  width: 40px; }
+
+#img1 {
+  background-image: url(../../images/models/z1/thumbnails/1.jpg); }
+
+#img2 {
+  background-image: url(../../images/models/z1/thumbnails/2.jpg); }
+
+#img3 {
+  background-image: url(../../images/models/z1/thumbnails/3.jpg); }
+
+#img4 {
+  background-image: url(../../images/models/z1/thumbnails/4.jpg); }
+
+#img5 {
+  background-image: url(../../images/models/z1/thumbnails/5.jpg); }
+
+#img6 {
+  background-image: url(../../images/models/z1/thumbnails/6.jpg); }
+
+#img7 {
+  background-image: url(../../images/models/z1/thumbnails/7.jpg); }
+
+#img8 {
+  background-image: url(../../images/models/z1/thumbnails/8.jpg); }
+
+#img9 {
+  background-image: url(../../images/models/z1/thumbnails/9.jpg); }
+
+#img10 {
+  background-image: url(../../images/models/z1/thumbnails/10.jpg); }
+
+#img11 {
+  background-image: url(../../images/models/z1/thumbnails/11.jpg); }
+
+#overhead {
+  background-image: url(../../images/models/z1/z1overhead.png); }
+
+#buildLink {
+  background: url(../../images/models/z1/buildLink.jpg) no-repeat; }
+
+#overhead #dotLCD {
+  top: 175px;
+  margin-left: 125px; }
+#overhead #dotDash {
+  top: 145px;
+  margin-left: 125px; }
+#overhead #dotTAC {
+  top: 425px;
+  margin-left: 45px; }
+#overhead #dotStorage {
+  top: 375px;
+  margin-left: 120px; }
+#overhead #dotPcm {
+  top: 375px;
+  margin-left: 81px; }
+#overhead #dotCarpet {
+  top: 225px;
+  margin-left: 81px; }

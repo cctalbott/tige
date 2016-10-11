@@ -1,0 +1,42 @@
+#mainimg {
+  background: url(../../images/models/i20/main/1.jpg) no-repeat; }
+
+#contentGalleryPaginator {
+  width: 20px; }
+
+#img1 {
+  background-image: url(../../images/models/i20/thumbnails/1.jpg); }
+
+#img2 {
+  background-image: url(../../images/models/i20/thumbnails/2.jpg); }
+
+#img3 {
+  background-image: url(../../images/models/i20/thumbnails/3.jpg); }
+
+#img4 {
+  background-image: url(../../images/models/i20/thumbnails/4.jpg); }
+
+#img5 {
+  background-image: url(../../images/models/i20/thumbnails/5.jpg); }
+
+#img6 {
+  background-image: url(../../images/models/i20/thumbnails/6.jpg); }
+
+#img7 {
+  background-image: url(../../images/models/i20/thumbnails/7.jpg); }
+
+#overhead {
+  background-image: url(../../images/models/i20/i20overhead.png); }
+
+#buildLink {
+  background: url(../../images/models/i20/buildLink.jpg) no-repeat; }
+
+#overhead #dotPcm {
+  top: 285px;
+  margin-left: 82px; }
+#overhead #dotStorage {
+  top: 410px;
+  margin-left: 100px; }
+#overhead #dotFreeboard {
+  top: 225px;
+  margin-left: 5px; }

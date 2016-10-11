@@ -1,0 +1,54 @@
+#mainimg {
+  background: url(../../images/models/22i/main/1.jpg) no-repeat; }
+
+#contentGalleryPaginator {
+  width: 40px; }
+
+#img1 {
+  background-image: url(../../images/models/22i/thumbnails/1.jpg); }
+
+#img2 {
+  background-image: url(../../images/models/22i/thumbnails/2.jpg); }
+
+#img3 {
+  background-image: url(../../images/models/22i/thumbnails/3.jpg); }
+
+#img4 {
+  background-image: url(../../images/models/22i/thumbnails/4.jpg); }
+
+#img5 {
+  background-image: url(../../images/models/22i/thumbnails/5.jpg); }
+
+#img6 {
+  background-image: url(../../images/models/22i/thumbnails/6.jpg); }
+
+#img7 {
+  background-image: url(../../images/models/22i/thumbnails/7.jpg); }
+
+#img8 {
+  background-image: url(../../images/models/22i/thumbnails/8.jpg); }
+
+#img9 {
+  background-image: url(../../images/models/22i/thumbnails/9.jpg); }
+
+#overhead {
+  background-image: url(../../images/models/22i/i22overhead.png); }
+
+#buildLink {
+  background: url(../../images/models/22i/buildLink.jpg) no-repeat; }
+
+#overhead #dotStorage {
+  top: 385px;
+  margin-left: 140px; }
+#overhead #dotPcm {
+  top: 310px;
+  margin-left: 81px; }
+#overhead #dotAlphaZ {
+  top: 280px;
+  margin-left: 81px; }
+#overhead #dotRevSeat {
+  top: 340px;
+  margin-left: 81px; }
+#overhead #dotSwimPlatform {
+  top: 470px;
+  margin-left: 81px; }

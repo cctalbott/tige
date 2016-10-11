@@ -1,0 +1,15 @@
+#mainimg {
+	background: url(../images/unique/warranty/main.jpg);
+	height: 288px;
+	width: 740px;
+	margin-bottom: 25px;
+}
+
+/*----------- cultureblock -----------*/
+p#disclaimer {font-size: 10px;}
+/*----------- /cultureblock -----------*/
+.section {width: 740px;}
+.sectionContent p {
+	width: 680px;
+	margin: 0 0 17px 0;
+}

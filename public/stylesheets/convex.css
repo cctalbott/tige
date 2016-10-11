@@ -1,0 +1,106 @@
+@charset "UTF-8";
+#mainimg {
+  height: 381px;
+  background: none; }
+
+#pushbuttonblock {
+  margin: 13px 0;
+  border: 1px solid #BBB; }
+  #pushbuttonblock h3 {
+    color: #F60;
+    border-bottom: 3px double #BBB;
+    padding: 12px 0 12px 10px;
+    background-color: #F2F2F2; }
+
+#pushbuttonimg {
+  margin: 4px auto;
+  width: 731px;
+  height: 317px;
+  background: none; }
+
+#pushbuttonblock p {
+  width: 666px;
+  margin: 20px auto; }
+
+#trimmabilityblock {
+  margin: 13px 0;
+  border: 1px solid #BBB; }
+  #trimmabilityblock h3 {
+    color: #F60;
+    border-bottom: 3px double #BBB;
+    padding: 12px 0 12px 10px;
+    background-color: #F2F2F2; }
+
+#onlyoneimg {
+  width: 227px;
+  height: 179px;
+  background: none;
+  float: left;
+  margin-bottom: 25px; }
+
+#onlyoneinfo {
+  width: 467px;
+  float: right;
+  margin: 21px 21px 0 0;
+  margin-bottom: 25px; }
+  #onlyoneinfo h5 {
+    font-size: 11px;
+    color: #F60; }
+
+#onlyonevideo {
+  margin: 25px 0 0 7px; }
+
+#trimadvantages {
+  clear: both;
+  width: 731px;
+  margin: 0 auto; }
+  #trimadvantages ul {
+    margin-bottom: 4px; }
+    #trimadvantages ul li h4 {
+      cursor: pointer;
+      background-image: url(../images/convex/trimmability_btns.gif);
+      width: 731px;
+      overflow: hidden;
+      background-repeat: no-repeat;
+      height: 0;
+      padding-top: 30px;
+      background-position: -1px -0px; }
+      #trimadvantages ul li h4#trimadvantages1 {
+        background-position: -1px -0px; }
+      #trimadvantages ul li h4#trimadvantages2 {
+        background-position: -1px -30px; }
+      #trimadvantages ul li h4#trimadvantages3 {
+        background-position: -1px -60px; }
+      #trimadvantages ul li h4#trimadvantages4 {
+        background-position: -1px -90px; }
+      #trimadvantages ul li h4#trimadvantages5 {
+        background-position: -1px -120px; }
+      #trimadvantages ul li h4#trimadvantages6 {
+        background-position: -1px -150px; }
+      #trimadvantages ul li h4#trimadvantages7 {
+        background-position: -1px -180px; }
+      #trimadvantages ul li h4#trimadvantages8 {
+        background-position: -1px -210px; }
+      #trimadvantages ul li h4#trimadvantages9 {
+        background-position: -1px -240px; }
+      #trimadvantages ul li h4#trimadvantages1:hover {
+        background-position: -739px -0px; }
+      #trimadvantages ul li h4#trimadvantages2:hover {
+        background-position: -739px -30px; }
+      #trimadvantages ul li h4#trimadvantages3:hover {
+        background-position: -739px -60px; }
+      #trimadvantages ul li h4#trimadvantages4:hover {
+        background-position: -739px -90px; }
+      #trimadvantages ul li h4#trimadvantages5:hover {
+        background-position: -739px -120px; }
+      #trimadvantages ul li h4#trimadvantages6:hover {
+        background-position: -739px -150px; }
+      #trimadvantages ul li h4#trimadvantages7:hover {
+        background-position: -739px -180px; }
+      #trimadvantages ul li h4#trimadvantages8:hover {
+        background-position: -739px -210px; }
+      #trimadvantages ul li h4#trimadvantages9:hover {
+        background-position: -739px -240px; }
+    #trimadvantages ul li p {
+      background-color: #CCC;
+      padding: 21px 15px 39px 15px; }

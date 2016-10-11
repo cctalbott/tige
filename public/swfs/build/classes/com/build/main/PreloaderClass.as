@@ -1,0 +1,1 @@
+﻿package com.build.main {	import flash.display.Sprite;	import flash.display.MovieClip;		public class PreloaderClass extends Sprite {		private var _preloaderBase:Sprite = new Sprite();				public function PreloaderClass():void {			preloaderInit();		}				private function preloaderInit():void {					}	}}

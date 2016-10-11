@@ -1,0 +1,14 @@
+#mainimg {
+  background: url(../images/ballast/ballast_header.jpg) no-repeat;
+  width: 740px;
+  height: 145px; }
+
+.section p {
+  margin-bottom: 17px; }
+
+dd {
+  margin-bottom: 10px; }
+
+dt {
+  font-weight: bold;
+  font-size: 11px; }

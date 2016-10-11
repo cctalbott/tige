@@ -1,0 +1,237 @@
+#mainimg {
+  width: 741px;
+  height: 288px;
+  background: url(../images/home/mainimgs/mywake-tige-hp.jpg);
+  margin: 0 auto 13px auto; }
+
+#mainImgBtn {
+  display: block;
+  background: url("../images/global/backgrounds/roundedLightGrayRight200.png") no-repeat;
+  width: 200px;
+  height: 20px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1em;
+  padding: 2px 0 0 15px;
+  position: relative;
+  top: 235px;
+  left: 500px; }
+
+#mainimg-nav {
+  position: absolute;
+  top: 413px;
+  margin-left: 635px; }
+  #mainimg-nav ul .previmg, #mainimg-nav ul .nextimg {
+    float: left;
+    display: block;
+    overflow: hidden;
+    height: 0;
+    margin-top: -7px;
+    cursor: pointer; }
+  #mainimg-nav ul .previmg {
+    background-image: url(../images/global/links/galleryLtArrow.png);
+    width: 18px;
+    padding-top: 19px;
+    margin-right: 6px; }
+  #mainimg-nav ul .imgdot {
+    float: left;
+    display: block;
+    width: 6px;
+    height: 0px;
+    padding-top: 6px;
+    overflow: hidden;
+    background-image: url(../images/global/links/gallerydots-lg_o.png);
+    margin-right: 4px; }
+  #mainimg-nav ul .nextimg {
+    background-image: url(../images/global/links/galleryRtArrow.png);
+    width: 19px;
+    padding-top: 18px; }
+
+.boxShadow {
+  -webkit-box-shadow: 1px 1px 5px rgb(100, 100, 100); }
+
+#homeTopSection {
+  width: 737px;
+  height: 170px;
+  margin: 0 auto 20px auto;
+  background: url(../images/home/backgrounds/topSectionBg.jpg) no-repeat;
+  border-left: 1px solid rgb(200, 200, 200); }
+  #homeTopSection .leftHorizontal {
+    width: 514px;
+    height: 170px;
+    float: left; }
+    #homeTopSection .leftHorizontal li {
+      float: left; }
+      #homeTopSection .leftHorizontal li a {
+        padding: 12px 10px 0 15px;
+        width: 145px;
+        height: 156px;
+        display: block;
+        text-decoration: none; }
+      #homeTopSection .leftHorizontal li #build {
+        padding: 12px 10px 0 15px;
+        width: 145px;
+        height: 156px;
+        display: block;
+        text-decoration: none; }
+        #homeTopSection .leftHorizontal li #build ul li a {
+          padding: 1px 5px 0 5px;
+          width: auto;
+          height: auto;
+          display: block;
+          text-decoration: none;
+          color: rgb(77, 77, 77); }
+          #homeTopSection .leftHorizontal li #build ul li a:hover {
+            text-decoration: underline;
+            color: rgb(0, 176, 216); }
+      #homeTopSection .leftHorizontal li a h3 {
+        font: bold 13px Helvetica, Arial, sans-serif;
+        color: rgb(26, 26, 26);
+        margin-bottom: 3px; }
+  #homeTopSection .rightVertical li a h3, #homeTopSection .leftHorizontal li #build h3, #homeTopSection .rightVertical li #build h3 {
+    font: bold 13px Helvetica, Arial, sans-serif;
+    color: rgb(26, 26, 26);
+    margin-bottom: 3px; }
+  #homeTopSection .leftHorizontal li a:hover h3, #homeTopSection .rightVertical li a:hover h3 {
+    color: rgb(0, 176, 216); }
+  #homeTopSection .leftHorizontal li a p {
+    font: 11px Helvetica, Arial, sans-serif;
+    color: rgb(77, 77, 77); }
+  #homeTopSection .rightVertical {
+    width: 222px;
+    height: 170px;
+    float: right; }
+    #homeTopSection .rightVertical li a {
+      padding: 9px 12px 0 8px;
+      width: 200px;
+      height: 47px;
+      display: block;
+      text-decoration: none; }
+      #homeTopSection .rightVertical li a p {
+        font: 11px Helvetica, Arial, sans-serif;
+        color: rgb(77, 77, 77); }
+
+#cinema {
+  width: 535px;
+  height: 223px;
+  background: url(../images/home/backgrounds/cinemaBg.jpg) no-repeat;
+  margin-bottom: 12px; }
+  #cinema .header p {
+    color: rgb(77, 77, 77);
+    font: 11px/13px Helvetica, Arial, sans-serif;
+    float: left;
+    width: 330px;
+    margin: 37px 0 0 20px; }
+  #cinema .header a {
+    width: 113px;
+    height: 24px;
+    padding: 6px 0 0 20px;
+    margin: 33px 10px 0 0;
+    overflow: hidden;
+    display: block;
+    background: url(../images/global/backgrounds/roundGrayRtArrowBg.png) no-repeat;
+    color: #fff;
+    font: bold 12px/17px Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    text-align: left;
+    float: right; }
+  #cinema #modelvideo {
+    margin: 19px 0 0 22px;
+    width: 217px;
+    float: left; }
+  #cinema #cinemaGallery {
+    float: right;
+    width: 289px;
+    margin-top: 16px; }
+    #cinema #cinemaGallery li {
+      margin-bottom: 2px; }
+      #cinema #cinemaGallery li a {
+        width: 282px;
+        height: 60px;
+        display: block;
+        text-decoration: none;
+        padding: 4px 0 0 7px; }
+        #cinema #cinemaGallery li a img {
+          width: 85px;
+          float: left; }
+        #cinema #cinemaGallery li a .description {
+          width: 162px;
+          float: right;
+          margin: 0 20px 0 0; }
+          #cinema #cinemaGallery li a .description h3 {
+            font: bold 13px/17px Helvetica, Arial, sans-serif;
+            color: rgb(26, 26, 26);
+            margin-bottom: 5px; }
+        #cinema #cinemaGallery li a:hover .description h3 {
+          color: rgb(0, 176, 216); }
+        #cinema #cinemaGallery li a .description p {
+          font: 10px/12px Verdana, sans-serif;
+          color: rgb(77, 77, 77); }
+
+#tigedecal {
+  background: url(../images/home/tigedecals.jpg) no-repeat;
+  display: block;
+  overflow: hidden;
+  width: 187px;
+  height: 0;
+  padding-top: 116px;
+  float: right;
+  margin-bottom: 20px; }
+
+#wake9decal {
+  display: block;
+  width: 180px;
+  height: 50px;
+  float: right;
+  margin-bottom: 20px;
+  border: 1px solid #ddd; }
+
+#pollblock {
+  color: rgb(77, 77, 77);
+  background: #fff url(../images/home/backgrounds/pollGradient.jpg) bottom center repeat-x;
+  border: 1px solid rgb(225, 225, 225);
+  width: 165px;
+  padding: 10px 7px 10px 10px;
+  float: right;
+  margin-bottom: 20px; }
+  #pollblock h3 {
+    font: bold 13px/15px Helvetica, Arial, sans-serif;
+    border-bottom: 1px solid rgb(225, 225, 225);
+    padding-bottom: 5px; }
+  #pollblock form p {
+    margin-bottom: 10px; }
+  #pollblock ul {
+    margin: 0 0 10px 0; }
+    #pollblock ul li {
+      margin: 0 0 5px 0; }
+
+#communitySidebar {
+  background: url(../images/community/community_side_bar.jpg) no-repeat;
+  float: right;
+  clear: right; }
+
+.sectionLink.right {
+  display: block; }
+
+#storeLinks {
+  display: block;
+  overflow: hidden;
+  width: 543px;
+  height: 94px;
+  background: url(../images/home/gear_hp.jpg) no-repeat;
+  position: relative;
+  left: -7px; }
+  #storeLinks #storeLink, #storeLinks #redCrossLink {
+    display: block;
+    width: 127px;
+    height: 0;
+    position: relative;
+    padding-top: 25px;
+    overflow: hidden; }
+  #storeLinks #storeLink {
+    top: 18px;
+    left: 400px; }
+  #storeLinks #redCrossLink {
+    top: 29px;
+    left: 400px; }

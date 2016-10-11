@@ -1,0 +1,64 @@
+#mainimg {
+  width: 740px;
+  height: 145px;
+  border: 1px solid rgb(225, 225, 225);
+  background: url(../images/reviews/reviews-header.jpg) no-repeat; }
+
+#boattest {
+  width: 301px;
+  float: right;
+  margin: 45px 10px 0 0;
+  font-size: 16px;
+  font-family: "Helvetica", "Arial", "sans-serif";
+  font-weight: bold;
+  color: rgb(77, 77, 77); }
+  #boattest span {
+    font-size: 22px;
+    color: rgb(26, 26, 26);
+    display: block;
+    margin-top: 17px; }
+
+#articlesblock em {
+  font-style: normal;
+  font-size: 16px;
+  line-height: 1.01em;
+  margin: 22px 0 22px 0;
+  display: block; }
+
+#reviewsList li ul li {
+  border-bottom: 1px solid rgb(175, 175, 175);
+  padding: 0 0 17px 5px;
+  margin: 0 5px 20px 28px; }
+  #reviewsList li ul li.last {
+    border-bottom: none; }
+  #reviewsList li ul li h3 {
+    font-size: 13px;
+    line-height: 13px; }
+    #reviewsList li ul li h3 .date {
+      font-size: 11px;
+      font-weight: normal; }
+    #reviewsList li ul li h3 .more {
+      color: rgb(0, 176, 216);
+      font-size: 11px;
+      background-image: url(../images/global/backgrounds/moreRightArrow.gif);
+      background-repeat: no-repeat;
+      background-position: right 2px;
+      padding: 0 13px 0 0;
+      cursor: pointer; }
+  #reviewsList li ul li .arrowRight {
+    width: 6px;
+    height: 11px;
+    display: block;
+    float: left;
+    background: url(../images/global/backgrounds/rightArrowOnWhite.gif) 0px 6px no-repeat;
+    overflow: hidden;
+    margin: 0 10px 0 0;
+    padding: 4px 0 0 0; }
+  #reviewsList li ul li .moreinfo {
+    background-color: rgb(242, 242, 242);
+    padding: 10px 10px 10px 10px;
+    margin: 0 0 15px -7px;
+    display: none; }
+    #reviewsList li ul li .moreinfo p {
+      margin: 0;
+      padding: 0; }

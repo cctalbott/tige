@@ -1,0 +1,1 @@
+﻿package com.build.main {	import flash.display.Sprite;	import flash.geom.ColorTransform;		public class ColorChangeClass extends Sprite {		public function ColorChangeClass(theMC:MovieClip, theColor:Number) 		{			var _colorInfo:ColorTransform = theMC.transform.colorTransform;						_colorInfo.color = theColor;			theMC.transform.colorTransform = _colorInfo;		}	}}

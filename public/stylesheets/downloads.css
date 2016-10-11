@@ -1,0 +1,72 @@
+@charset "UTF-8";
+#siriusblock {
+  width: 531px;
+  height: 141px;
+  border: 1px solid rgb(200, 200, 200);
+  background: url(../images/downloads/sirius.jpg); }
+  #siriusblock ul {
+    width: 200px;
+    float: right;
+    margin-top: 20px; }
+
+#desktopblock em {
+  font-style: normal;
+  font-size: 16px;
+  line-height: 1.01em;
+  margin: 22px 0 22px 0;
+  display: block; }
+
+#desktops {
+  margin: 0 0 0 -25px;
+  width: 531px; }
+
+.desktopItem {
+  width: 250px;
+  float: left;
+  margin: 0 30px 20px 0; }
+  .desktopItem.right {
+    margin: 0 0 20px 0; }
+  .desktopItem img {
+    float: left;
+    width: 155px;
+    height: 92px; }
+
+.desktopSizes {
+  float: right;
+  width: 80px; }
+  .desktopSizes li a {
+    color: rgb(77, 77, 77);
+    font-size: 11px; }
+
+#linksblock, #speclinksblock {
+  border: 1px solid #CCC;
+  margin-bottom: 13px; }
+
+#linksblock h3, #speclinksblock h3 {
+  color: #F60;
+  border-bottom: 3px double #BBB;
+  padding: 12px 0 12px 10px;
+  background-color: #F2F2F2; }
+
+#linksblock table, #speclinksblock table {
+  width: 714px;
+  height: 50px;
+  margin: 13px auto; }
+
+#linksblock table tr td a, #speclinksblock table tr td a {
+  text-decoration: none;
+  color: #1A1A1A;
+  font-size: 16px; }
+
+.listTitle {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 20px;
+  clear: left; }
+
+.listStyle {
+  list-style: disc inside;
+  font-weight: bold; }
+
+.sectionContent right {
+  margin-bottom: 17px; }

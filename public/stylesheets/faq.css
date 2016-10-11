@@ -1,0 +1,13 @@
+#mainimg {
+  background: url(../images/contact/tige-long.jpg);
+  height: 145px;
+  margin-bottom: 25px; }
+
+#faqblock {
+  width: auto; }
+  #faqblock ul {
+    padding: 13px; }
+    #faqblock ul li {
+      margin: 13px 0; }
+      #faqblock ul li p a {
+        color: #00ADEE; }

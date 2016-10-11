@@ -1,0 +1,106 @@
+@charset "UTF-8";
+#mainimg {
+  background: url(../images/home/home-main.jpg) no-repeat;
+  height: 400px; }
+
+.angledheaderlongbg {
+  background-image: url(../images/global/contentheaders/headerangledlong.gif);
+  background-repeat: no-repeat;
+  background-position: -2px -0px;
+  width: 273px;
+  height: 8px; }
+
+#videoblock {
+  float: left;
+  margin-bottom: 13px; }
+
+#moreblock h3 {
+  background-image: url(../images/tour/moretour_btn.gif);
+  width: 455px;
+  height: 0;
+  display: block;
+  margin: 4px 0;
+  padding-top: 29px;
+  overflow: hidden;
+  background-position: -0px 0px;
+  cursor: pointer; }
+  #moreblock h3:hover {
+    background-position: -0px -30px; }
+#moreblock ul {
+  width: 451px;
+  background-color: #CCC;
+  padding: 5px 0;
+  position: absolute;
+  margin-top: -4px;
+  border: 1px solid #BBB;
+  z-index: 2; }
+  #moreblock ul li {
+    margin: 5px;
+    cursor: pointer; }
+    #moreblock ul li:hover {
+      color: #F60; }
+
+#rightblock {
+  float: right;
+  width: 273px; }
+
+#tourcontentblock {
+  float: right;
+  border: 1px solid #BBB;
+  width: 271px;
+  margin-bottom: 13px; }
+  #tourcontentblock h3 {
+    color: #F60;
+    border-bottom: 3px double #BBB;
+    padding: 12px 0 12px 10px;
+    background-color: #F2F2F2; }
+  #tourcontentblock p {
+    width: 247px;
+    margin: 10px auto; }
+  #tourcontentblock h5 {
+    color: #F60;
+    font-size: 13px;
+    width: 247px;
+    margin: 0 auto; }
+  #tourcontentblock .nextlink {
+    color: #1A1A1A;
+    width: 247px;
+    margin: 0 auto 13px auto;
+    display: block;
+    cursor: pointer; }
+    #tourcontentblock .nextlink:hover {
+      color: #F60; }
+
+#blueprintblock {
+  background-image: url(../images/tour/blueprint.gif);
+  width: 740px;
+  height: 209px;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  display: block;
+  margin-bottom: 13px;
+  clear: both; }
+  #blueprintblock:hover {
+    cursor: pointer; }
+  #blueprintblock span {
+    position: relative;
+    top: 50px;
+    left: 120px;
+    font-size: 10px;
+    color: #FFF; }
+
+#headquartersblock {
+  border: 1px solid #BBB;
+  margin-bottom: 13px;
+  clear: both; }
+  #headquartersblock h3 {
+    color: #F60;
+    border-bottom: 3px double #BBB;
+    padding: 12px 0 12px 10px;
+    background-color: #F2F2F2; }
+  #headquartersblock img {
+    display: block;
+    margin: 4px auto; }
+  #headquartersblock p {
+    width: 690px;
+    margin: 13px auto; }
